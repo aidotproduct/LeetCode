@@ -10,6 +10,7 @@ import static org.junit.jupiter.api.Assertions.*;
 public class RemoveDuplicateFromSortedArrayTest {
     RemoveDuplicatesClass arrayClass = new RemoveDuplicatesClass();
 
+
     @Test
     public void removeDuplicatesTest1()
     {
