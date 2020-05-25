@@ -1,6 +1,6 @@
 package shreesai.com.array;
 
-public class RotateArray {
+public class RotateArrayClass {
     public void rotate_brut(int[] nums, int k) {
 
         int[] result = new int[nums.length];
