@@ -3,9 +3,9 @@ package shreesai.com.array;
 import org.junit.jupiter.api.Test;
 import static org.junit.jupiter.api.Assertions.*;
 
-public class GetMaxProfitTest {
+public class GetMaxProfitClassTest {
 
-    GetMaxProfit profit = new GetMaxProfit();
+    GetMaxProfitClass profit = new GetMaxProfitClass();
 
     @Test
     public void getMaxProfitTest1()
